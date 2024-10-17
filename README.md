@@ -1,7 +1,9 @@
 # Seung Woo Yang - BallboyDev
 
 ## Installation
-__Seung Woo Yang__ (Ballboy Franciscus) – [@YourTwitter](https://twitter.com/dbader_org) – yswgood0329@gmail.com - [Blog](https://github.com/ballboyDev)
+__Seung Woo Yang__ (Ballboy Franciscus) 
+- yswgood0329@gmail.com 
+- [Blog](https://github.com/ballboyDev)
 
 > \- 게으른 개발자가 훌륭한 개발자다 -<br/>
 > 게을러 지기 위해 부지런히 움직이는 심심한 개발자 ballboy 입니다.
@@ -22,12 +24,18 @@ __Seung Woo Yang__ (Ballboy Franciscus) – [@YourTwitter](https://twitter.com/d
 * 2019.07 ~ 2021.12
     * `COMPANY`: Douzone Bizon - ERP 개발2Cell
     * `RANK/POS`: 연구원/FullStack Developer
-    * `WORK`:
+    * `WORK`
+        * Amaranth10 회계/물류 모듈 개발
+        * 업무 지원 페이지 및 공통 개발 툴 제작 및 운영
 * 2022.01 ~ 2023.07
     * `COMPANY`: Goorm - Devth Squad
     * `RANK/POS`: Squad(Product) Leader/FullStack Developer
-    * `WORK`:
+    * `WORK`
+        * 구름Devth/구름Level 제품 개발 및 팀 리더
+        * 제품 발전 및 유지 보수 개발 및 시험 운영
 * 2023.10
     * `COMPANY`: OOO
     * `RANK/POS`: 주임 연구원/Backend Developer
-    * `WORK`:
+    * `WORK`
+        * 클라우드 EMR 백엔드 개발
+        * 정부 및 외부 연동 API 및 Proxy 서버 개발 및 운영
