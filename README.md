@@ -16,12 +16,8 @@ __Seung Woo Yang__ (Ballboy Franciscus)
 |:--|:--|
 |![AWS](https://img.shields.io/badge/AWS-★★-f79400) ![NCP](https://img.shields.io/badge/NCP-★★-01cfa5) ![Docker](https://img.shields.io/badge/Docker-★★★-0997e5) ![Kubernetes](https://img.shields.io/badge/Kubernetes-★★-3069de) ![RestfulAPI](https://img.shields.io/badge/Restful--API-★★★-181818) ![GraphQL](https://img.shields.io/badge/GraphQL-★★-de33a6) ![socket.io](https://img.shields.io/badge/socket.io-★★-181818) ![WebRTC](https://img.shields.io/badge/WebRTC-★★-f7f7f7)|![Git/GitHub](https://img.shields.io/badge/Git/GitHub-★★★-e9573d) ![SVN](https://img.shields.io/badge/SVN-★★-7c97c3) ![MS-SourceSafe](https://img.shields.io/badge/MS--SourceSafe-★★-362e38) ![Atlassian](https://img.shields.io/badge/Atlassian-★★-004fc6) ![Slack](https://img.shields.io/badge/Slack-★★★-481449) ![Notion](https://img.shields.io/badge/Notion-★★★-181818) ![ClickUp](https://img.shields.io/badge/ClickUp-★★★-f75d7a)|
 
----
-<center>
-<img alt="Static Badge" src="https://img.shields.io/badge/skilled-★★★-ea2862">
-<img alt="Static Badge" src="https://img.shields.io/badge/possible-★★-ffa500">
-<img alt="Static Badge" src="https://img.shields.io/badge/average/order-★-77bc1f">
-</center>
+![skilled](https://img.shields.io/badge/skilled-★★★-ea2862) ![possible](https://img.shields.io/badge/possible-★★-ffa500) ![average/order](https://img.shields.io/badge/average/order-★★★-f75d7a)
+
 
 
 ## Release History
