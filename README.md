@@ -1,7 +1,7 @@
 # Seung Woo Yang - BallboyDev
 
 ## Installation
-`brew install --ballboy --Francisucs Seung Woo Yang` 
+`>> brew install --ballboy --Francisucs Seung Woo Yang` 
 
 ![Static Badge](https://img.shields.io/badge/yswgood0329%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&label=gmail&labelColor=FFFFFF)
 [![Static Badge](https://img.shields.io/badge/Blog-222222?logo=githubpages&logoSize=auto&style=for-the-badge)](https://ballboydev.github.io/)
