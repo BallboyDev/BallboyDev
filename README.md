@@ -1,13 +1,11 @@
 # Seung Woo Yang - BallboyDev
 
-## Installation
-`>> brew install --ballboy --Francisucs Seung Woo Yang` 
-
+## SNS
 ![Static Badge](https://img.shields.io/badge/yswgood0329%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&label=gmail&labelColor=FFFFFF)
 [![Static Badge](https://img.shields.io/badge/Blog-222222?logo=githubpages&logoSize=auto&style=for-the-badge)](https://ballboydev.github.io/)
 [![Static Badge](https://img.shields.io/badge/%40ballboy.329-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&label=INSTA&labelColor=E4405F)](https://www.instagram.com/ballboy.329)
 
-## Use Package List
+## Skill List
 |Backend|Frontend|Database|
 |:--|:--|:--|
 |![Nest.js](https://img.shields.io/badge/Nest.js-★★★-ea2862) ![Express.js](https://img.shields.io/badge/Express.js-★★★-e6edf3) ![Spring](https://img.shields.io/badge/Spring-★★-77bc1f) ![.Net](https://img.shields.io/badge/.Net-★-512bd4) ![FastAPI](https://img.shields.io/badge/FastAPI-★-04988a)|![HTML5/CSS3/ES6](https://img.shields.io/badge/HTML5/CSS3/ES6+-★★★-181818) ![React/Nest.js](https://img.shields.io/badge/React/Nest.js-★★★-5ed3f3) ![React Context](https://img.shields.io/badge/React_Context-★★-181818) ![React Query](https://img.shields.io/badge/React_Query-★★-181818) ![React Strap](https://img.shields.io/badge/React_Strap-★★★-ff4281) ![SASS](https://img.shields.io/badge/SASS-★★★-cc6699) ![Svelte-Kit](https://img.shields.io/badge/Svelte--Kit-★-f96743) ![JSP](https://img.shields.io/badge/JSP-★-ffa500) ![jQuery](https://img.shields.io/badge/jQuery-★★★-0769ad)|![MSSQL](https://img.shields.io/badge/MSSQL-★★-0078d4) ![MariaDB](https://img.shields.io/badge/MariaDB-★★★-013245) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★-31638c) ![MongoDB](https://img.shields.io/badge/MongoDB-★★★-4da53f) ![Redis](https://img.shields.io/badge/Redis-★★-d12e26) ![Mybatis](https://img.shields.io/badge/Mybatis-★★-3b2f2f) ![mongoose](https://img.shields.io/badge/mongoose-★★★-880000) ![TypeORM](https://img.shields.io/badge/TypeORM-★★★-e33323)|
@@ -18,24 +16,3 @@
 
 ![skilled](https://img.shields.io/badge/skilled-★★★-ea2862) ![possible](https://img.shields.io/badge/possible-★★-ffa500) ![average/older](https://img.shields.io/badge/average/older-★-f75d7a)
 
-
-
-## Release History
-* 2019.07 ~ 2021.12
-    * `COMPANY`: Douzone Bizon - ERP 개발2Cell
-    * `RANK/POS`: 연구원/FullStack Developer
-    * `WORK`
-        * Amaranth10 회계/물류 모듈 개발
-        * 업무 지원 페이지 및 공통 개발 툴 제작 및 운영
-* 2022.01 ~ 2023.07
-    * `COMPANY`: Goorm - Devth Squad
-    * `RANK/POS`: Squad(Product) Leader/FullStack Developer
-    * `WORK`
-        * 구름Devth/구름Level 제품 개발 및 팀 리더
-        * 제품 발전 및 유지 보수 개발 및 시험 운영
-* 2023.10 ~
-    * `COMPANY`: OOO
-    * `RANK/POS`: 주임 연구원/Backend Developer
-    * `WORK`
-        * 클라우드 EMR 백엔드 개발
-        * 정부 및 외부 연동 API 및 Proxy 서버 개발 및 운영
