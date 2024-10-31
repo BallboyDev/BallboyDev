@@ -16,3 +16,4 @@
 
 ![skilled](https://img.shields.io/badge/skilled-★★★-ea2862) ![possible](https://img.shields.io/badge/possible-★★-ffa500) ![average/older](https://img.shields.io/badge/average/older-★-f75d7a)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballboyDev&layout=compact&theme=radical)
